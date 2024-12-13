@@ -1,6 +1,6 @@
 # Projeto com README
 
-Um projoeto de teste com um arquivo README
+Um projeto de teste com um arquivo README
 [<img src="./teste.gif" alt="gif da tela do curso">](https://google.com) 
 
 
